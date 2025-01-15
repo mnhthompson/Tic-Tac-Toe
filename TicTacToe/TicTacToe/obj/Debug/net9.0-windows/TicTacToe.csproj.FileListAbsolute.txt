@@ -14,3 +14,4 @@ C:\Users\Marcus Thompson\Desktop\CSE 310\TicTacToe2\TicTacToe\TicTacToe\obj\Debu
 C:\Users\Marcus Thompson\Desktop\CSE 310\TicTacToe2\TicTacToe\TicTacToe\obj\Debug\net9.0-windows\TicTacToe.pdb
 C:\Users\Marcus Thompson\Desktop\CSE 310\TicTacToe2\TicTacToe\TicTacToe\obj\Debug\net9.0-windows\TicTacToe.genruntimeconfig.cache
 C:\Users\Marcus Thompson\Desktop\CSE 310\TicTacToe2\TicTacToe\TicTacToe\obj\Debug\net9.0-windows\ref\TicTacToe.dll
+C:\Users\Marcus Thompson\Desktop\CSE 310\TicTacToe2\TicTacToe\TicTacToe\obj\Debug\net9.0-windows\TicTacToe.sourcelink.json
